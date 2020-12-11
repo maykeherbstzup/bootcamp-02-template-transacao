@@ -1,4 +1,4 @@
-package com.zup.transacao.config.kafka;
+package com.zup.transacao.config;
 
 import com.zup.transacao.Transaction.dto.TransactionEventResponse;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
